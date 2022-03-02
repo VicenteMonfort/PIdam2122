@@ -5,3 +5,4 @@ Seguimos probando
 Probamos desde owner
 seguimos haciendo cambios desde colaborador
 3º commit desde colaborador
+Haciendo cambios en clase
